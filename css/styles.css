@@ -1,0 +1,12 @@
+#my-header {
+background-color: rgb(255, 165, 0);
+color: hsl(147, 50, 47);
+padding: 40px;
+text-aling: center; 
+}
+body{
+    background-color:powderblue;
+}
+p{
+    background-color:#ff00ff;
+}
